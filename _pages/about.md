@@ -31,5 +31,11 @@ I am Jiameng Wang (王佳萌), a Postdoctoral Researcher in the
 [Electronic States Spectroscopy Research Team](https://www.riken.jp/en/research/labs/cems/electron_states_spectro/index.html)
 led by Prof. Kyoko Ishizaka at the RIKEN Center for Emergent Matter Science (CEMS), Japan.
 
-My research focuses on spin- and angle-resolved photoemission spectroscopy
-(SARPES/ARPES) to investigate the electronic, spin, and lattice structures of materials.
+My research focuses on the electronic structure and spin-dependent properties of quantum materials,
+with particular interests in magnetic and topological systems.
+I primarily use spin- and angle-resolved photoemission spectroscopy (SARPES/ARPES),
+complemented by synchrotron-based spectroscopy and first-principles calculations,
+to investigate how magnetism, spin–orbit coupling, and crystal structure shape their electronic states.
+
+I received my Ph.D. in Engineering from the University of Chinese Academy of Sciences in 2025
+and my B.Sc. from Northwestern Polytechnical University in 2018.
