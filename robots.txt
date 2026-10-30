@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lhmmaries.github.io/al-folio-test/sitemap.xml
