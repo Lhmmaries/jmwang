@@ -4,4 +4,7 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: jiameng.wang[at]riken.jp # your email address
 scholar_userid: aES9N1QAAAAJ # your Google Scholar ID
-wechat_qr: /assets/img/wechat.jpg
+wechat:
+  logo: "fa-brands fa-weixin"
+  title: "微信公众号"
+  url: "/jmwang/assets/img/wechat.jpg"
