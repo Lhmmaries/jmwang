@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lhmmaries.github.io/jmwang/sitemap.xml
+Sitemap: https://jmwangphys.github.io/sitemap.xml
