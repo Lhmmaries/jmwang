@@ -39,3 +39,10 @@ to investigate how magnetism, spin–orbit coupling, and crystal structure shape
 
 I received my Ph.D. in Engineering from the University of Chinese Academy of Sciences in 2025
 and my B.Sc. from Northwestern Polytechnical University in 2018.
+
+### Beyond Research
+
+Beyond the lab, I love Disney and Chiikawa, especially LinaBel and Hachiware.
+I enjoy photography, exploring new places and beautiful views, and finding little moments of joy in everyday life.
+I hope to stay curious about the world, make choices that feel true to me,
+and have the courage to follow my own path.
