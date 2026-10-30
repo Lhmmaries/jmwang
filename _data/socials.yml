@@ -4,4 +4,4 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: jiameng.wang[at]riken.jp # your email address
 scholar_userid: aES9N1QAAAAJ # your Google Scholar ID
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: /assets/img/wechat.jpg
