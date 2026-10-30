@@ -357,7 +357,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Wang]
-  first_name: [Jiameng]
+  first_name: [Jiameng, Jia-Meng, J. M., J.M., J.]
 
   style: apa
   locale: en
